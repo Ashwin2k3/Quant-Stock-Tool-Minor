@@ -1,6 +1,5 @@
 Here’s a simple and effective `README.md` for your project that provides a welcome page and a brief overview of the project.
 
-```markdown
 # Quantitative Analysis Dashboard
 
 Welcome to the **Quantitative Analysis Dashboard**, an all-in-one platform for analyzing stock market data and performing sentiment analysis, option chain analysis, and stock prediction. This project provides tools to explore market trends, analyze stock options, and predict stock movements.
@@ -63,7 +62,6 @@ This project is open-source and available under the MIT License.
 ---
 
 Thank you for using the Quantitative Analysis Dashboard. We hope this tool helps you analyze and predict stock market trends more effectively!
-```
 
 ### Explanation:
 - **Project Overview**: The README starts with a welcome message and a brief explanation of the features of the project.
