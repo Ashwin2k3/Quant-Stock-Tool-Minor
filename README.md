@@ -1,4 +1,4 @@
-Here’s a simple and effective `README.md` for your project that provides a welcome page and a brief overview of the project.
+
 
 # Quantitative Analysis Dashboard
 
