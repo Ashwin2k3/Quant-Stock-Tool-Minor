@@ -1,0 +1,11 @@
+yfinance
+requests
+streamlit
+textblob
+pandas
+plotly
+requests
+streamlit
+streamlit-autorefresh
+
+
