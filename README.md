@@ -63,11 +63,3 @@ This project is open-source and available under the MIT License.
 
 Thank you for using the Quantitative Analysis Dashboard. We hope this tool helps you analyze and predict stock market trends more effectively!
 
-### Explanation:
-- **Project Overview**: The README starts with a welcome message and a brief explanation of the features of the project.
-- **Installation Instructions**: It includes clear setup instructions to get the project up and running.
-- **Features and Usage**: A short description of each feature is given, with a focus on the user experience.
-- **Technologies Used**: Lists the main technologies and libraries used in the project.
-- **Contributing and License**: Information on how others can contribute and the project's license.
-
-This will provide anyone visiting the project repository a clean, easy-to-understand overview of what the project is, how to use it, and how to get started.
